@@ -1,17 +1,17 @@
 #!/bin/bash
 # This is in development. I'm working on it.
-# Github: https://github.com/AbirHasan2005/PowerLevel10K
+# Github: https://github.com/HackNuba/Stylish-termuc
 
 # ------------------------------------------------------------------------------------------
 
 # Please give me credits if you use any codes from here.
-# Templates from ohmyzsh(GitHub: https://github.com/ohmyzsh/ohmyzsh)
-# PowerLevel10K ZSH theme from romkatv(GitHub: https://github.com/romkatv/powerlevel10k)
+# Templates from ohmyzsh(GitHub: https://github.com/HackNuba/Stylish-termuc)
+# PowerLevel10K ZSH theme from romkatv(GitHub: https://github.com/HackNuba/Stylish-termuc)
 
 # ------------------------------------------------------------------------------------------
 
-# This script created by @AbirHasan2005
-# Telegram Group: http://t.me/linux_repo
+# This script created by @RealNubarh
+# Telegram Group: http://t.me/realnubarh
 # Don't forget to give credits.
 
 # ------------------------------------------------------------------------------------------
@@ -81,7 +81,7 @@ sleep 1
 fi
 
 elif [[ $optiona == 3 || $optiona == 03 ]]; then
-printf "\n\n\e[1;92mJoin Telegram Group for feedback and chat: \e[1;96mhttp://t.me/linux_repo\n\e[0m"
+printf "\n\n\e[1;92mJoin Telegram Group for feedback and chat: \e[1;96mhttp://t.me/realnubarh\n\e[0m"
 exit 1
 
 else # For Optiona
@@ -93,6 +93,6 @@ fi
 # ------------------------------------------------------------------------------------------
 
 # If you find any problem in this script than please report that problem in any social site from below:
-# Telegram Group(Recommanded for fast respond): http://t.me/linux_repo
-# Twitter: https://twitter.com/AbirHasan2005 @AbirHasan2005
-# Instagram: https://instagram.com/AbirHasan2005 @AbirHasan2005
+# Telegram Group(Recommanded for fast respond): http://t.me/realnubarh
+# Twitter: https
+# Instagram: https://i
